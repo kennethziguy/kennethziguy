@@ -1,9 +1,11 @@
 
-<h2 align="left">Hey 👋! I'm Kenneth, a passionate software engineer and AI enthusiast from Canada. I love building cool tech, solving complex problems, and pushing the limits of what's possible. 🚀</h2>
+<h2 align="left">Hey 👋! I'm Kenneth, a passionate software engineer and an aspiring AI Engineer. I love building cool and useful tech, solving complex problems, and pushing the limits of what's possible. 🚀</h2>
 
 ###
 
-
+- 💻🌐 I'm currently working on AI-powered full-stack Mobile and Web System  
+- 🤖📚 I'm currently learning how to design large and scalable systems  
+  
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
