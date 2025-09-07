@@ -1,5 +1,5 @@
 
-<h2 align="left">Hey 👋! <br/> I'm Kenneth, a passionate software engineer and an aspiring AI Engineer. I love building cool and useful tech, solving complex problems, and pushing the limits of what's possible. 🚀</h2>
+<h2 align="left">Hey 👋! <br/><br/> I'm Kenneth, a passionate software engineer and an aspiring AI Engineer. I love building cool and useful tech, solving complex problems, and pushing the limits of what's possible. 🚀</h2>
 
 ###
 
